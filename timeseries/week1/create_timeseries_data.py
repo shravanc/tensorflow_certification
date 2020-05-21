@@ -17,7 +17,6 @@ noise_level = 5
 series = baseline + trend(time, slope) + seasonality(time, period=365, amplitude=amplitude)
 series += noise(time, noise_level, seed=42)
 
-plt.figure(figsize=(10, 6))
 
 split_time  = 1000
 time_train  = time[:split_time]
