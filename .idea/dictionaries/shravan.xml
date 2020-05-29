@@ -1,10 +1,20 @@
 <component name="ProjectDictionaryState">
   <dictionary name="shravan">
     <words>
+      <w>crossentropy</w>
+      <w>cuda</w>
       <w>datagen</w>
       <w>dataset</w>
+      <w>datastore</w>
+      <w>imdb</w>
       <w>mnist</w>
+      <w>pred</w>
       <w>relu</w>
+      <w>sereis</w>
+      <w>shravan</w>
+      <w>softmax</w>
+      <w>tensorboard</w>
+      <w>tensorflow</w>
     </words>
   </dictionary>
 </component>

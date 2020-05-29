@@ -1,3 +1,4 @@
+---------------------------------------Intro and Convolution----------------------------------------
 # Catas and Dogs Data:
 
 wget --no-check-certificate \
@@ -23,3 +24,29 @@ wget --no-check-certificate \
 !wget --no-check-certificate \
     https://storage.googleapis.com/mledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5 \
     -O /tmp/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5
+
+# Rock Papers and Scisors Training Data:
+
+wget --no-check-certificate \
+    https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip \
+    -O /tmp/rps.zip
+
+# Rock Papers and Scisors Validation Data:
+
+wget --no-check-certificate \
+    https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip \
+    -O /tmp/rps-test-set.zip
+
+---------------------------------------Intro and Convolution----------------------------------------
+
+---------------------------------------NLP----------------------------------------------------------
+
+wget --no-check-certificate \
+    https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sarcasm.json \
+    -O /tmp/sarcasm.json
+
+
+
+
+
+---------------------------------------NLP----------------------------------------------------------
